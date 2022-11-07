@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rengrouze or Elias Oumghar
 - 👀 I’m interested in Games, Music, Art, Cooking !
-- 🌱 I’m currently learning to code in HTML, CSS, Javascript etc !
+- 🌱 I’m currently learning to code with Java !
 - 💞️ I’m not looking to collaborate on something yet, i'm learning first !
 - 📫 How to reach me, mail : eoumghar@gmail.com | Discord : Rengret#2258 
 
