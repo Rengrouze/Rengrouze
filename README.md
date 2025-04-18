@@ -8,7 +8,8 @@
 <div align="center">
 
   
-  ![Banner](https://cdn.discordapp.com/attachments/1333321644843995137/1357332011349577780/github-header-image.png?ex=67efd171&is=67ee7ff1&hm=5a57fda9cfc5930c2547f0726176d8e4c2048d7979cfbd55a205d340baa78a4a&format=webp&quality=lossless)
+  ![Banner](https://media.licdn.com/dms/image/v2/D4E16AQE1IJaTaOnZnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674730428575?e=1750291200&v=beta&t=f-y9_O2rsvy8Uhs_tRlKytyDcOthnlitw6fNjzf36RE)
+
 
   
   [![GitHub followers](https://img.shields.io/github/followers/Rengrouze?style=social)](https://github.com/Rengrouze)
@@ -31,7 +32,7 @@ const elias = {
   interests: ["Games 🎮", "Tabletop RPGs 🎲", "Music 🎵", "Art 🎨", "Cooking 🍳", "Tech 💻"],
   personality: "Curiosity-driven explorer of all domains",
   learning: "A LOT OF THINGS AT THE SAME TIME!",
-  currentFocus: "Python, Java/Kotlin, PHP Symfony",
+  currentFocus: "Java/Kotlin, PHP Symfony, Python",
   pronouns: "he/him",
   contact: {
     email: "eoumghar@gmail.com",
