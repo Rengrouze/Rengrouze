@@ -213,5 +213,5 @@ Je suis actuellement à la recherche d'un poste de développeur full-stack en al
   <p>Merci de visiter mon profil ! N'oubliez pas de consulter mes dépôts épinglés ci-dessous 👇</p>
   
   <h3>💼 Ouvert aux opportunités professionnelles</h3>
-  <p>Je recherche actuellement un poste de développeur full-stack (alternance ou emploi). Télétravail préféré, mais je suis flexible !</p>
+  <p>Je recherche actuellement un poste de développeur full-stack (alternance). Télétravail préféré, mais je suis flexible !</p>
 </div>
