@@ -15,7 +15,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/Rengrouze?style=social)](https://github.com/Rengrouze)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/elias-oumghar-09324b134/)
   
-  ### 💼 Currently seeking a full-stack developer position (apprenticeship or job)
+  ### 💼 Currently seeking a full-stack developer position (apprenticeship)
   
 </div>
 
@@ -168,8 +168,8 @@ const elias = {
 ### 🏆 Projets Phares
 
 - 🤖 **Botohiko_Kakita** : Bot Discord pour spammer mon MJ pour nos sessions de JDR ([Dépôt](https://github.com/Rengrouze/Botohiko_Kakita))
-- 🚪 **ff14-door-tracker** : Outils pour FFXIV ([Dépôt](https://github.com/Rengrouze/ff14-door-tracker))
-- 🎮 **Peeble** : Projet de jeu Unity amusant ([Jouer ici](https://play.unity.com/en/games/e1541874-7a07-449d-866e-a06cf460ff2f/build))
+- 🚪 **ff14-door-tracker** : Outil pour FFXIV pour juste m'aider à choisir la porte de droite ou de gauche ([Dépôt](https://github.com/Rengrouze/ff14-door-tracker))
+- 🎮 **Peeble** : Petit jeu unity un brin aléatoire mais amusant ([Jouer ici](https://play.unity.com/en/games/e1541874-7a07-449d-866e-a06cf460ff2f/build))
 - 🎭 **Projet VTT Secret** : Développement d'un système Foundry VTT personnel (détails confidentiels)
 
 
@@ -194,7 +194,7 @@ Je suis passionné de jeux de rôle sur table, particulièrement La Légende des
 
 ### 💼 Recherche d'emploi
 
-Je suis actuellement à la recherche d'un poste de développeur full-stack (alternance ou emploi). Télétravail préféré, mais je suis flexible !
+Je suis actuellement à la recherche d'un poste de développeur full-stack en alternance. Télétravail préféré, mais je suis flexible !
 
 ### 📫 Me Contacter
 
